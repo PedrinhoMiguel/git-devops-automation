@@ -9,3 +9,5 @@ Bem-vindo ao respositório! Este é um projeto de exemplo para demonstraar o uso
 - Markdown
 
 ### Estrutura do Projeto
+
+- Alterando arquivos remotamente
